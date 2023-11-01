@@ -7,7 +7,7 @@
 - Örn:
 ` git clone https://github.com/keremturak/TaskQuestion6.git`
 
-![Sample Image](C:\Users\kerim\taskquestion6-documentation\docs\img\Ekran görüntüsü 2023-11-02 005456.png)
+![Sample Image](https://github.com/keremturak/taskquestion6-documentation/blob/main/docs/img/git%20clone.png?raw=true)
 
 ## Bağımlılıklar
 ![Dependencies](https://github.com/keremturak/HR-Management-Documentation/blob/main/docs/img/Gradle_logo.png?raw=true)
