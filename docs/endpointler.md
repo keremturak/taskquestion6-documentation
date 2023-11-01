@@ -1,7 +1,7 @@
 Endpoint (uç nokta), bir ağda veya iletişim protokolünde, hizmetin veya veriye erişimin başladığı belirli bir noktadır. Endpoint, bir hizmetin, cihazın veya ağa bağlı bir noktanın belirli bir adresini temsil eder.
 
 
-![Sample Image](https://odsdanismanlik.com/wp-content/uploads/2022/08/ODS_AK_22_1131_makale_agustos_gorselleri_toplu_ik_1920x550_010822.png)
+![Sample Image](https://github.com/keremturak/taskquestion6-documentation/blob/main/docs/img/Swagger.png?raw=true)
 
 ### Company
 ∙ [UPDATE COMPANY](http://localhost:9090/api/v1/company/update-company)
@@ -15,9 +15,14 @@ Endpoint (uç nokta), bir ağda veya iletişim protokolünde, hizmetin veya veri
 
 ### Employee
 ∙ [UPDATE EMPLOYEE](http://localhost:9090/api/v1/employee/update-employee)
+
 ∙ [SAVE EMPLOYEE](http://localhost:9090/api/v1/employee/save-employee)
+
 ∙ [FIND BY COMPANY NAME AND EMPLOYEE NAME](http://localhost:9090/api/v1/employee/find-by-company-name-and-employee-name)
+
 ∙ [FIND ALL EMPLOYEE](http://localhost:9090/api/v1/employee/find-all-employee)
+
 ∙ [FIND ALL BY COMPANY ID](http://localhost:9090/api/v1/employee/find-all-by-company-id)
+
 ∙ [DELETE EMPLOYEE](http://localhost:9090/api/v1/employee/delete-employee)
 
