@@ -51,8 +51,8 @@ spring:
 
 - Öncelikle Ortam değişkenleri açılmalı.
 - Ortam değişkenlerine kullanıcı adı ve şifre kısımları eklenmeli.
-  
-![Sample Image](C:\Users\kerim\taskquestion6-documentation\docs\img\Ekran görüntüsü 2023-11-02 005456.png)
+
+![Sample Image](https://github.com/keremturak/taskquestion6-documentation/blob/main/docs/img/OrtamDegiskenleri.png?raw=true)
 
 - MongDB ye taskquestion6 tablosu oluşturulmalı ve bu tabloda `username: ${MONGO_USER}`, `password: ${MONGO_PASS}` yetkilendirilmeli.
 - örnek;
